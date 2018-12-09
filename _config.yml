@@ -1,0 +1,16 @@
+title: Typed Nonsense - Derived Effects
+email: ""
+description: >- # this means to ignore newlines until "baseurl:"
+  A minor blog exploring the ideas of type systems, effect systems, and logics.
+  Most software just works, but let's see why with types.
+baseurl: ""
+url: ""
+twitter_username: charly_resend
+github_username:  cbresendiz1
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
