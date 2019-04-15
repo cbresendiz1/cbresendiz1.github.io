@@ -32,7 +32,3 @@ on a large data structures. One way to mitigate that
 is to divide the data structure with partitions of
 locked regions and lock-free data structures that use
 atomic-modify
-
-## Witness Feedback
-## Sparse Regions
-## Encoding the stack in Refinemen Types
